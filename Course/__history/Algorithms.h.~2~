@@ -1,0 +1,13 @@
+//---------------------------------------------------------------------------
+
+#ifndef AlgorithmsH
+#define AlgorithmsH
+
+bool FindMinDistance(int& x, int& y);
+bool Dijkstra();
+bool allIsPassed();
+bool isUseDijkstra();
+bool Moore();
+
+//---------------------------------------------------------------------------
+#endif

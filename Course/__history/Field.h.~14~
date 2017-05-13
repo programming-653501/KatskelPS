@@ -1,0 +1,18 @@
+﻿//---------------------------------------------------------------------------
+
+#ifndef FieldH
+#define FieldH
+#include <vcl.h>
+#include "Points.h"
+
+void DrawField(TImage* image, int horizontalNumber, int verticalNumber);
+void DrawPath(TImage *image, Points *point);
+void DrawLine(TImage *image, Points *start, Points *finish, TColor color);
+void PaintPoints(TImage* image, Points** points);
+bool FindMinDistance(int& x, int& y);
+bool Dijkstra();
+bool allIsPassed();
+bool isUseDijkstra();
+
+//---------------------------------------------------------------------------
+#endif

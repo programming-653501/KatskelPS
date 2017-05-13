@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.478,D:\Work\Programming\Course\Field.h=D:\Work\Programming\Course\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.627,D:\Work\Programming\Course\Field.h=D:\Work\Programming\Course\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,D:\Work\Programming\Course\Field.h=D:\Work\Programming\Course\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,D:\Work\Programming\Course\Field.cpp=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,D:\Work\Programming\Course\Points.h=D:\Work\Programming\Course\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.502,D:\Work\Programming\Course\Unit2.h=D:\Work\Programming\Course\Field.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.502,D:\Work\Programming\Course\Unit2.cpp=D:\Work\Programming\Course\Field.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,C:\Users\Pavel\Documents\RAD Studio\Projects\Unit1.dfm=D:\Work\Programming\Course\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,D:\Work\Programming\Course\Algorithms.cpp=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,C:\Users\Pavel\Documents\RAD Studio\Projects\Unit1.cpp=D:\Work\Programming\Course\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.298,=C:\Users\Pavel\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,=C:\Users\Pavel\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,D:\Work\Programming\Course\Points.cpp=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\Users\Pavel\Documents\RAD Studio\Projects\Project1.cbproj=D:\Work\Programming\Course\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,D:\Work\Programming\Course\Algorithms.h=D:\Work\Programming\Course\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,D:\Work\Programming\Course\Field.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.785,D:\Work\Programming\Course\Field.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.511,D:\Work\Programming\Course\Field.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,C:\Users\Pavel\Documents\RAD Studio\Projects\Unit1.h=D:\Work\Programming\Course\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,D:\Work\Programming\Course\Field.cpp=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.627,D:\Work\Programming\Course\Field.cpp=D:\Work\Programming\Course\Unit2.cpp</Transaction>
+    <Transaction>2017.05.13 11:30:29.229,D:\Work\Programming\Course\main.h=D:\Work\Programming\Course\Unit1.h</Transaction>
+    <Transaction>2017.05.13 11:30:29.229,D:\Work\Programming\Course\main.cpp=D:\Work\Programming\Course\Unit1.cpp</Transaction>
+    <Transaction>2017.05.13 11:30:29.229,D:\Work\Programming\Course\main.dfm=D:\Work\Programming\Course\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

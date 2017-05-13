@@ -1,0 +1,16 @@
+//---------------------------------------------------------------------------
+
+#ifndef AlgorithmsH
+#define AlgorithmsH
+
+#include "Field.h"
+#include <deque>
+
+bool FindMinDistance(int& x, int& y);
+bool Dijkstra(Field *field);
+bool allIsPassed();
+bool isUseDijkstra();
+bool Moore(Field *field);
+
+//---------------------------------------------------------------------------
+#endif

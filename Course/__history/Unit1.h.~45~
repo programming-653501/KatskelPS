@@ -1,0 +1,53 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit1H
+#define Unit1H
+//---------------------------------------------------------------------------
+#include <Classes.hpp>
+#include <Controls.hpp>
+#include <StdCtrls.hpp>
+#include <Forms.hpp>
+#include <ExtCtrls.hpp>
+//---------------------------------------------------------------------------
+class TForm1 : public TForm
+{
+__published:	// IDE-managed Components
+	TImage *Image1;
+	TRadioGroup *RadioGroup1;
+	TButton *Button2;
+	TButton *Button3;
+	TGroupBox *GroupBox1;
+	TEdit *Edit1;
+	TEdit *Edit2;
+	TLabel *Label1;
+	TLabel *Label2;
+	TButton *Button1;
+	void __fastcall Image1MouseDown(TObject *Sender, TMouseButton Button, TShiftState Shift,
+		  int X, int Y);
+	void __fastcall FormActivate(TObject *Sender);
+	void __fastcall Button2Click(TObject *Sender);
+	void __fastcall Button3Click(TObject *Sender);
+	void __fastcall Button1Click(TObject *Sender);
+	void __fastcall Button4Click(TObject *Sender);
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm1(TComponent* Owner);
+};
+
+
+void DrawLabyrinth(TImage* myImage, int horNumber, int vertNumber);
+void CreatePoints(Points** &point, int horNumber, int vertNumber);
+void DeletePoints(Points** &point, int horNumber, int vertNumber);
+void drawPoint(TImage* image, int width, int height, Points* point, TColor color);
+void clearPoint(TImage* image, int width, int height, TColor borderColor, TColor cellColor, Points* point);
+void drawPath(TImage *image, Points *point);
+void DrawLine(TImage *image, Points *start, Points *finish, TColor color);
+void PaintPoints(TImage* image, Points** points);
+bool findMinDistance(int& x, int& y);
+bool Dijkstra();
+bool allIsPassed();
+bool isUseDijkstra();
+//---------------------------------------------------------------------------
+extern PACKAGE TForm1 *Form1;
+//---------------------------------------------------------------------------
+#endif
